@@ -1,3 +1,3 @@
 # professional-website
 please follow the link:
-shaxdeveloper.netlify.app
+https://shaxdeveloper.netlify.app
